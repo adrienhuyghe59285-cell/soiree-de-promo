@@ -2,3 +2,4 @@ Liste des courses
 - jus de pomme
 - pizza
 - gateau au chocolat
+-glacons
